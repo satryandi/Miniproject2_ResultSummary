@@ -31,8 +31,10 @@ Users should be able to:
 
 - Desktop
 ![Alt text](design/Screenshot_Desktop_ResultSummary.png)
+
 - Mobile
 ![Alt text](design/Screenshot_Mobile_ResultSummary.png)
+
 ### Links
 
 - Solution URL : https://github.com/satryandi/FrontendMentor_ResultSummaryComponent
