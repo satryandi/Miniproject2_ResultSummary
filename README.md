@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL : https://github.com/satryandi/FrontendMentor_ResultSummaryComponent
+- Live Site URL : https://satryandi-miniproject2.netlify.app/
 
 ## My process
 
